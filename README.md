@@ -21,7 +21,7 @@
 Hi, I'm Alexandru Bangau, a Full Stack Developer 🚀. I'm a creative problem solving enthusiast, with a constantly growing love for languages.
 Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 
-  <img align="right" alt="GIF" width="500px" src="https://blog.atom.io/img/posts/github-for-atom.png" />
+  <img align="right" alt="GIF" width="450px" src="https://blog.atom.io/img/posts/github-for-atom.png" />
 
 **Talking about Personal Stuffs:**
 
