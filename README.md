@@ -33,7 +33,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - ⚡️ Fun-Fact: Anything is possible
 - 📫 How to reach me: bangau.alexandru@gmail.com
 - 😄 Pronouns: ale[x360]
-- 📝[Resume](https://docs.google.com/document/d/14yTJWkC2g8uR3CkTbcGvkUYWMIy4g7Tbj63Bc8uCLjE/edit?usp=sharing)
+- 📝 [Resume](https://docs.google.com/document/d/14yTJWkC2g8uR3CkTbcGvkUYWMIy4g7Tbj63Bc8uCLjE/edit?usp=sharing)
 
 ### ![Profile views](https://gpvc.arturio.dev/rammazzoti2000)
 
