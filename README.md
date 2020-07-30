@@ -1,4 +1,5 @@
-### Hey 👋, I'm [Alex!](https://www.alex-portfolio.org/) 
+![Profile views](https://gpvc.arturio.dev/rammazzoti2000)
+### Hey 👋, I'm [Alex!](https://www.alex-portfolio.org/)
 
 <a href="https://github.com/alex_maxinova">
   <img align="left" alt="Alexandru Bangau | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -15,7 +16,6 @@
 <a href="https://www.alex-portfolio.org/">
   <img align="left" alt="Alexandru Bangau | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
 </a>
-
 <br />
 <br />
 
@@ -35,7 +35,9 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 😄 Pronouns: ale[x360]
 - 📝 [Resume](https://docs.google.com/document/d/14yTJWkC2g8uR3CkTbcGvkUYWMIy4g7Tbj63Bc8uCLjE/edit?usp=sharing)
 
-### ![Profile views](https://gpvc.arturio.dev/rammazzoti2000)
+
+
+##
 
 **Languages and Tools:**  
 
