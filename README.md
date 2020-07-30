@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Alex
 #### I am Full-Stack Software Developer
-![I am Full-Stack Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Full-Stack Software Developer](https://zdnet3.cbsistatic.com/hub/i/2018/10/18/580b4d43-4060-4d90-be23-1f97ef795e4e/github-logo.png)
 
 Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 
