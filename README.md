@@ -17,11 +17,12 @@
 </a>
 
 <br />
+<br />
 
 Hi, I'm Alexandru Bangau, a Full Stack Developer 🚀. I'm a creative problem solving enthusiast, with a constantly growing love for languages.
 Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
-
-  <img align="right" alt="GIF" width="450px" src="https://blog.atom.io/img/posts/github-for-atom.png" />
+##
+<img align="right" alt="GIF" width="450px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--MNvD_xtu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.postimg.cc/G3PbcZL2/octocat-2.png" />
 
 **Talking about Personal Stuffs:**
 
@@ -35,7 +36,6 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 📝[Resume](https://docs.google.com/document/d/14yTJWkC2g8uR3CkTbcGvkUYWMIy4g7Tbj63Bc8uCLjE/edit?usp=sharing)
 
 ### ![Profile views](https://gpvc.arturio.dev/rammazzoti2000)
-
 
 **Languages and Tools:**  
 
@@ -54,6 +54,5 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 
 ![Alex' Github Stats](https://github-readme-stats.vercel.app/api?username=rammazzoti2000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 
 
