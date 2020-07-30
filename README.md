@@ -3,16 +3,16 @@
 <a href="https://github.com/alex_maxinova">
   <img align="left" alt="Alexandru Bangau | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://twitter.com/alex_maxinova">
-  <img align="left" alt="Alexandru Bangau | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/alexandru-bangau/">
   <img align="left" alt="Alex' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/alex_maxinovas">
+<a href="https://twitter.com/alex_maxinova">
+  <img align="left" alt="Alexandru Bangau | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://t.me/alex_maxinova">
   <img align="left" alt="Alex' Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://twitter.com/alex_maxinova">
+<a href="https://www.alex-portfolio.org/">
   <img align="left" alt="Alexandru Bangau | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
 </a>
 
