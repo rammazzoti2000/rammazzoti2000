@@ -22,7 +22,7 @@
 Hi, I'm Alexandru Bangau, a Full Stack Developer 🚀. I'm a creative problem solving enthusiast, with a constantly growing love for languages.
 Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 ##
-<img align="right" alt="GIF" width="450px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--MNvD_xtu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.postimg.cc/G3PbcZL2/octocat-2.png" />
+<img align="right" alt="GIF" width="420px" height="370px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--MNvD_xtu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.postimg.cc/G3PbcZL2/octocat-2.png" />
 
 **Talking about Personal Stuffs:**
 
