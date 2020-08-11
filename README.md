@@ -25,7 +25,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Professional Skills
+- 👨🏽‍💻 I’m currently working on Calculator ReactApp
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
