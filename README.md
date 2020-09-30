@@ -25,7 +25,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 ~~I’m currently working on the Final Capstone ([Microverse Curriculum](https://www.microverse.org/#world-class-curriculum))~~ Working on Interview Prep, Data Structures and Algorithms
+- 👨🏽‍💻 Working on Interview Prep, Data Structures and Algorithms
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
