@@ -26,7 +26,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 Working on Interview Prep, Data Structures and Algorithms
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning  `Advanced React`
 - 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: Anything is possible
