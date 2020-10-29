@@ -29,7 +29,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 🌱 I’m currently learning  `Advanced React`
 - 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: Anything is possible
+- ⚡️ Fun-Fact: **Don't be afraid to fail. Be afraid not to try**.
 - 📫 How to reach me: bangau.alexandru@gmail.com
 - 😄 Pronouns: ale[x360]
 - 📝 [Resume](https://docs.google.com/document/d/14yTJWkC2g8uR3CkTbcGvkUYWMIy4g7Tbj63Bc8uCLjE/edit?usp=sharing)
