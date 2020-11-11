@@ -25,8 +25,8 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Working on Interview Prep, Data Structures and Algorithms
-- 🌱 I’m currently learning  `Advanced React`
+- 👨🏽‍💻 Full time job searching 
+- 🌱 I’m currently extending my skillset in `MERN Stack`
 - 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: **Don't be afraid to fail. Be afraid not to try**.
