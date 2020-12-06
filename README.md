@@ -26,7 +26,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 Full time job searching 
-- 🌱 I’m currently extending my skillset in `MERN Stack / Docker / GraphQL`
+- 🌱 I’m currently extending my skillset in `PHP / Laravel / Docker`
 - 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: **Don't be afraid to fail. Be afraid not to try**.
