@@ -1,11 +1,7 @@
 ### Hey 👋, I'm [Alex!](https://www.alex-portfolio.org/)
-![Overview][1]
-[1]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg
 
 <a href="https://github.com/alex_maxinova">
-  ![image](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)
-  
-  <img align="left" alt="Alexandru Bangau | Github" width="22px" style="background:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Alexandru Bangau | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alexandru-bangau/">
   <img align="left" alt="Alex' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
