@@ -25,7 +25,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Full time job searching 
+- 👨🏽‍💻 ...
 - 🌱 I’m currently extending my skillset in `PHP / Laravel / Docker`
 - 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
