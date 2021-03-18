@@ -57,6 +57,6 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Alex' Github Stats](https://github-readme-stats.vercel.app/api?username=rammazzoti2000&count_private=true&show_icons=true&&theme=tokyonight)
+![Alex' Github Stats](https://github-readme-stats.vercel.app/api?username=rammazzoti2000&count_private=true&show_icons=true&&theme=gotham)
 
 
