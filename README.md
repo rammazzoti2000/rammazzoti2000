@@ -32,7 +32,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - ⚡️ Fun-Fact: **Don't be afraid to fail. Be afraid not to try**.
 - 📫 How to reach me: bangau.alexandru@gmail.com
 - 😄 Pronouns: ale[x360]
-- 📝 [Personal resume](https://docs.google.com/document/d/14yTJWkC2g8uR3CkTbcGvkUYWMIy4g7Tbj63Bc8uCLjE/edit?usp=sharing) <code>**!==**</code> 🚥 [GitHub resume](https://resume.github.io/?rammazzoti2000)
+- 📝 ([Personal resume](https://docs.google.com/document/d/14yTJWkC2g8uR3CkTbcGvkUYWMIy4g7Tbj63Bc8uCLjE/edit?usp=sharing) <code>**!==**</code> 🚥 [GitHub resume](https://resume.github.io/?rammazzoti2000)) || [Italian Personal Resume](/eures_it_cv.pdf)
 
 ![Profile views](https://gpvc.arturio.dev/rammazzoti2000)
 
