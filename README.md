@@ -34,8 +34,6 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 😄 Pronouns: ale[x360]
 - 📝 ([Personal resume](https://docs.google.com/document/d/14yTJWkC2g8uR3CkTbcGvkUYWMIy4g7Tbj63Bc8uCLjE/edit?usp=sharing) <code>**||**</code> [Italian Personal resume](/eures_it_cv.pdf)) <code>**!==**</code> 🚥 [GitHub resume](https://resume.github.io/?rammazzoti2000) 
 
-![](https://komarev.com/ghpvc/?username=rammazzoti2000)
-
 ##
 
 **Languages and Tools:**  
