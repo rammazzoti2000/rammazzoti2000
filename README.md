@@ -22,11 +22,10 @@ Hi, I'm Alexandru Bangau, a Full Stack Developer 🚀. I'm a creative problem so
 Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 
 <p align="right"><img align="right" src="https://gitwar.herokuapp.com/badge?username=rammazzoti2000&label=GitHub%20Profile%20Score&style=for-the-badge&color=blueviolet" alt="rammazzoti2000"/></p>
-<img align="left" alt="GIF" width="300px" src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" />
-
 
 ##
 <br />
+<img align="right" alt="GIF" width="300px" style="margin-bottom: 100px" src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" />
 
 **Talking about Personal Stuffs:** 
 
@@ -37,9 +36,14 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - ⚡️ Fun-Fact: **Don't be afraid to fail. Be afraid not to try**.
 - 📫 How to reach me: bangau.alexandru@gmail.com
 - 😄 Pronouns: ale[x360]
-- 📝 ([Personal resume](https://docs.google.com/document/d/14yTJWkC2g8uR3CkTbcGvkUYWMIy4g7Tbj63Bc8uCLjE/edit?usp=sharing) <code>**||**</code> [Italian Personal resume](/eures_it_cv.pdf)) <code>**!==**</code> 🚥 [GitHub resume](https://resume.github.io/?rammazzoti2000) 
+- 📝 ([Personal resume](https://docs.google.com/document/d/14yTJWkC2g8uR3CkTbcGvkUYWMIy4g7Tbj63Bc8uCLjE/edit?usp=sharing) <code>**||**</code> [Italian Personal resume](/eures_it_cv.pdf)) <code>**!==**</code> 🚥 [GitHub resume](https://resume.github.io/?rammazzoti2000)
+
+<br />
+
 
 ##
+
+<br />
 
 **Languages and Tools:**
 
