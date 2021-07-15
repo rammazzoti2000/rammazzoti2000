@@ -25,7 +25,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 ##
 <br />
-<img align="right" alt="GIF" width="300px" style="margin-bottom: 100px" src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" />
+<img align="left" alt="GIF" width="300px" style="margin-bottom: 100px" src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" />
 
 **Talking about Personal Stuffs:** 
 
