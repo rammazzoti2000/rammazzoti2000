@@ -21,9 +21,9 @@
 Hi, I'm Alexandru Bangau, a Full Stack Developer 🚀. I'm a creative problem solving enthusiast, with a constantly growing love for languages.
 Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 
-<a align="right"><img align="right" src="https://gitwar.herokuapp.com/badge?username=rammazzoti2000&label=Gitwar%20Profile%20Score&style=for-the-badge&color=blueviolet" alt="digitradiart"/> 
+<p align="right"><img align="right" src="https://gitwar.herokuapp.com/badge?username=rammazzoti2000&label=GitHub%20Profile%20Score&style=for-the-badge&color=blueviolet" alt="rammazzoti2000"/></p>
 <img align="left" alt="GIF" width="300px" src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" />
-</a>
+
 
 ##
 <br />
@@ -41,7 +41,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 ##
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
