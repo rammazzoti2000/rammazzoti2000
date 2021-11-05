@@ -63,7 +63,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+[![Alex' Github Stats](https://github-readme-stats.vercel.app/api?username=rammazzoti2000&count_private=true&include_all_commits=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
-![Alex' Github Stats](https://github-readme-stats.vercel.app/api?username=rammazzoti2000&count_private=true&include_all_commits=true&show_icons=true&&theme=gotham)
 
 
